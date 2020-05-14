@@ -1,5 +1,6 @@
 # Simple-php-Social-Website
 *Intall*
+
 1)Upload file to the website
 
 2)Upload [database.sql](database.sql) to your Database
